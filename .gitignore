@@ -1,0 +1,6 @@
+# Archivo .gitignore para WordPress
+wp-config.php
+/wp-content/uploads/
+/wp-content/cache/
+*.log
+.htaccess
